@@ -1,6 +1,6 @@
 # Hi, I'm Ritik Kumar 👋
 
-I'm a web developer with a strong foundation in front-end and back-end technologies. Currently pursuing a Computer Programming Diploma at Algonquin College, I am passionate about building intuitive, responsive web applications and continuously enhancing my skills.
+I'm a software developer with a strong foundation in front-end and back-end technologies. Currently pursuing a Computer Programming Diploma at Algonquin College, I am passionate about building intuitive, responsive web applications and continuously enhancing my skills.
 
 ## 🎓 Education & Honors
 - **Computer Programming Diploma**  
